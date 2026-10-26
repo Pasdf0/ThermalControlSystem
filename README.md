@@ -1,8 +1,5 @@
 # Sistema de Control Térmico y Modos de Vuelo para Nanosatélites (TCS)
 
-* **Asignatura:** Programación de Sistemas Embebidos (2026-2) - Departamento de Ingeniería Informática, USACH.
-* **Profesor:** Carlos González Cortés.
-* **Autor:** Amaru Monje Rojas (`amaru.monje@usach.cl`).
 * **Documentación Detallada:** Consulta [DOCS.md](DOCS.md) para estándares de código (JPL Power of 10), decisiones de diseño, mitigación de riesgos, estrategia de pruebas y cronograma.
 
 ---

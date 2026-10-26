@@ -1,9 +1,6 @@
 # Documentación de Diseño, Estándares y Planificación (TCS)
 
 * **Proyecto:** Sistema de Control Térmico y Modos de Vuelo para Nanosatélites (TCS)
-* **Asignatura:** Programación de Sistemas Embebidos (2026-2) - Departamento de Ingeniería Informática, USACH.
-* **Profesor:** Carlos González Cortés.
-* **Autor:** Amaru Monje Rojas (`amaru.monje@usach.cl`).
 * **Documento Principal:** [README.md](README.md) (Especificaciones de hardware, arquitectura y flujo de build/flash).
 
 ---
