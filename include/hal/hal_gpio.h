@@ -2,8 +2,10 @@
 #define HAL_GPIO_H
 
 #include <stdint.h>
+#include "hal/hal_types.h"
 
-void hal_gpio_init(uint8_t pin, uint8_t mode);
-void hal_gpio_write(uint8_t pin, uint8_t level);
+hal_status_t hal_gpio_init(uint8_t pin, hal_gpio_mode_t mode);
+hal_status_t hal_gpio_write(uint8_t pin, hal_gpio_level_t level);
+hal_status_t hal_gpio_toggle(uint8_t pin);
 
 #endif /* HAL_GPIO_H */

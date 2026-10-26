@@ -1,3 +1,16 @@
+# Build directories (CMake / ESP-IDF / Native)
+build/
+bin/
+out/
+.cache/
+
+# ESP-IDF specific artifacts
+sdkconfig
+sdkconfig.old
+sdkconfig.ci
+managed_components/
+dependencies.lock
+
 # Prerequisites
 *.d
 
@@ -35,6 +48,7 @@
 *.i*86
 *.x86_64
 *.hex
+*.bin
 
 # Debug files
 *.dSYM/
